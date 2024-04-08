@@ -31,11 +31,3 @@
    - Integrate the recognition system with mobile applications and online platforms for real-time usage.
    - Collaborate with nutritionists and dietitians to incorporate dietary analysis features into the system.
 
-**7. References:**
-   - [Insert relevant references to papers, articles, and resources used during the project.]
-
-**8. Acknowledgments:**
-   - [Acknowledge any individuals or organizations that provided support or resources for the project.]
-
-**9. Appendices:**
-   - [Include any additional supplementary materials such as code snippets, sample images, or model architectures.]
